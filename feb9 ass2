@@ -1,0 +1,10 @@
+#Given number is even or odd
+a=int(input('enter a value'))
+if a%2==0:
+    print('given number is even')
+else:
+    print('given number is odd')
+    
+ output:   
+   enter a value21
+given number is odd 
